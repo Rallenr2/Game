@@ -1,0 +1,38 @@
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.exe
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.deps.json
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.json
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.dev.json
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.dll
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\ref\Game.dll
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\bin\Debug\net5.0-windows\Game.pdb
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.vbprojAssemblyReference.cache
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.Form1.resources
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.Resources.resources
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.dll
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\ref\Game.dll
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.pdb
+G:\My Drive\Courses\CS1\11 Final Project\Game\Game\obj\Debug\net5.0-windows\Game.genruntimeconfig.cache
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.exe
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.deps.json
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.json
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.runtimeconfig.dev.json
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.dll
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\ref\Game.dll
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\bin\Debug\net5.0-windows\Game.pdb
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.vbprojAssemblyReference.cache
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.Form1.resources
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.Resources.resources
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.vbproj.GenerateResource.cache
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfoInputs.cache
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.AssemblyInfo.vb
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.vbproj.CoreCompileInputs.cache
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.dll
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\ref\Game.dll
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.pdb
+C:\Users\allenr2\source\repos\Game-Starter-Project\Game\Game\obj\Debug\net5.0-windows\Game.genruntimeconfig.cache
